@@ -1,6 +1,6 @@
 # Magento 2 HTML Sitemap Extension
 
-[Magento 2 Canonical Url](https://www.ulmod.com/magento-2-html-sitemap-extension.html)  is a Magento 2 extension that helps you provide your visitors with a convenient overview of your whole site structure. 
+[Magento 2 HTML Sitemap](https://www.ulmod.com/magento-2-html-sitemap-extension.html)  is a Magento 2 extension that helps you provide your visitors with a convenient overview of your whole site structure. 
 
 With Magento 2 HTML Sitemap, you can generate a convenient overview of all site pages to helps search engines better crawl and index your site pages.
 
